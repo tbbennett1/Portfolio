@@ -3455,10 +3455,10 @@ input, select, textarea {
 	}
 
 		#header h1 {
-			-moz-transition: opacity 0.2s ease;
+			/* -moz-transition: opacity 0.2s ease;
 			-webkit-transition: opacity 0.2s ease;
 			-ms-transition: opacity 0.2s ease;
-			transition: opacity 0.2s ease;
+			transition: opacity 0.2s ease; */
 			height: inherit;
 			left: 1.25em;
 			line-height: inherit;
@@ -3597,14 +3597,14 @@ input, select, textarea {
 	}
 
 		#banner h2 {
-			-moz-transform: scale(1);
+			/* -moz-transform: scale(1);
 			-webkit-transform: scale(1);
 			-ms-transform: scale(1);
-			transform: scale(1);
-			-moz-transition: -moz-transform 0.5s ease, opacity 0.5s ease;
+			transform: scale(1); */
+			/* -moz-transition: -moz-transform 0.5s ease, opacity 0.5s ease;
 			-webkit-transition: -webkit-transform 0.5s ease, opacity 0.5s ease;
 			-ms-transition: -ms-transform 0.5s ease, opacity 0.5s ease;
-			transition: transform 0.5s ease, opacity 0.5s ease;
+			transition: transform 0.5s ease, opacity 0.5s ease; */
 			display: inline-block;
 			font-size: 1.75em;
 			opacity: 1;
@@ -3650,7 +3650,7 @@ input, select, textarea {
 			}
 
 		#banner .more {
-			-moz-transition: -moz-transform 0.75s ease, opacity 0.75s ease;
+			/* -moz-transition: -moz-transform 0.75s ease, opacity 0.75s ease;
 			-webkit-transition: -webkit-transform 0.75s ease, opacity 0.75s ease;
 			-ms-transition: -ms-transform 0.75s ease, opacity 0.75s ease;
 			transition: transform 0.75s ease, opacity 0.75s ease;
@@ -3661,7 +3661,7 @@ input, select, textarea {
 			-moz-transform: translateY(0);
 			-webkit-transform: translateY(0);
 			-ms-transform: translateY(0);
-			transform: translateY(0);
+			transform: translateY(0); */
 			border: none;
 			bottom: -45px;
 			color: inherit;
@@ -3701,10 +3701,10 @@ input, select, textarea {
 			-webkit-transition: opacity 1s ease-in-out;
 			-ms-transition: opacity 1s ease-in-out;
 			transition: opacity 1s ease-in-out;
-			-moz-transition-delay: 0.5s;
+			/* -moz-transition-delay: 0.5s;
 			-webkit-transition-delay: 0.5s;
 			-ms-transition-delay: 0.5s;
-			transition-delay: 0.5s;
+			transition-delay: 0.5s; */
 			content: '';
 			background: #2e3842;
 			display: block;
